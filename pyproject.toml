@@ -1,0 +1,35 @@
+[project]
+name = "whitehole-plan"
+version = "3.0.0-open.1"
+description = "Whitehole Plan: an academic destiny simulator and research-field analysis toolkit."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Whitehole Plan contributors" }]
+keywords = [
+  "streamlit",
+  "academic-analysis",
+  "research-tools",
+  "paper-analysis",
+  "knowledge-map",
+  "llm",
+  "sge",
+  "白洞计划",
+  "学术分析",
+]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+]
+
+[project.urls]
+Homepage = "https://github.com/your-name/whitehole-plan"
+Issues = "https://github.com/your-name/whitehole-plan/issues"
+
+[tool.setuptools]
+py-modules = []
